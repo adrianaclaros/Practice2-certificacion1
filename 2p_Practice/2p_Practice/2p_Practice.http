@@ -1,0 +1,6 @@
+@_2p_Practice_HostAddress = http://localhost:5219
+
+GET {{_2p_Practice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

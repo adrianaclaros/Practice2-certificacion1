@@ -1,0 +1,11 @@
+C:\Users\Adriana\OneDrive\Documents\certif1\2P\2P-Practice\2p_Practice\PatientManager\bin\Debug\net8.0\PatientManager.deps.json
+C:\Users\Adriana\OneDrive\Documents\certif1\2P\2P-Practice\2p_Practice\PatientManager\bin\Debug\net8.0\PatientManager.dll
+C:\Users\Adriana\OneDrive\Documents\certif1\2P\2P-Practice\2p_Practice\PatientManager\bin\Debug\net8.0\PatientManager.pdb
+C:\Users\Adriana\OneDrive\Documents\certif1\2P\2P-Practice\2p_Practice\PatientManager\obj\Debug\net8.0\PatientManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriana\OneDrive\Documents\certif1\2P\2P-Practice\2p_Practice\PatientManager\obj\Debug\net8.0\PatientManager.AssemblyInfoInputs.cache
+C:\Users\Adriana\OneDrive\Documents\certif1\2P\2P-Practice\2p_Practice\PatientManager\obj\Debug\net8.0\PatientManager.AssemblyInfo.cs
+C:\Users\Adriana\OneDrive\Documents\certif1\2P\2P-Practice\2p_Practice\PatientManager\obj\Debug\net8.0\PatientManager.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\OneDrive\Documents\certif1\2P\2P-Practice\2p_Practice\PatientManager\obj\Debug\net8.0\PatientManager.dll
+C:\Users\Adriana\OneDrive\Documents\certif1\2P\2P-Practice\2p_Practice\PatientManager\obj\Debug\net8.0\refint\PatientManager.dll
+C:\Users\Adriana\OneDrive\Documents\certif1\2P\2P-Practice\2p_Practice\PatientManager\obj\Debug\net8.0\PatientManager.pdb
+C:\Users\Adriana\OneDrive\Documents\certif1\2P\2P-Practice\2p_Practice\PatientManager\obj\Debug\net8.0\ref\PatientManager.dll
