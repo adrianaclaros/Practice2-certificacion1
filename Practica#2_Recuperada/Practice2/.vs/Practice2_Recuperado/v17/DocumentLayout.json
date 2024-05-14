@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{31E400FD-A6CC-456E-A654-76FC6836B070}|Practice2\\Practice2.csproj|c:\\users\\adriana\\onedrive\\documents\\certif1\\2p\\2p-practice - copia\\practica#2_recuperada\\practice2\\practice2\\practice2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{31E400FD-A6CC-456E-A654-76FC6836B070}|Practice2\\Practice2.csproj|solutionrelative:practice2\\practice2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E400FD-A6CC-456E-A654-76FC6836B070}|Practice2\\Practice2.csproj|c:\\users\\adriana\\onedrive\\documents\\certif1\\2p\\2p-practice - copia\\practica#2_recuperada\\practice2\\practice2\\appsettings.uat.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31E400FD-A6CC-456E-A654-76FC6836B070}|Practice2\\Practice2.csproj|solutionrelative:practice2\\appsettings.uat.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{31E400FD-A6CC-456E-A654-76FC6836B070}|Practice2\\Practice2.csproj|c:\\users\\adriana\\onedrive\\documents\\certif1\\2p\\2p-practice - copia\\practica#2_recuperada\\practice2\\practice2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{31E400FD-A6CC-456E-A654-76FC6836B070}|Practice2\\Practice2.csproj|solutionrelative:practice2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -11,8 +19,36 @@
       "RelativeMoniker": "D:0:0:{31E400FD-A6CC-456E-A654-76FC6836B070}|Practice2\\Practice2.csproj|solutionrelative:practice2\\controllers\\patients_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{31E400FD-A6CC-456E-A654-76FC6836B070}|Practice2\\Practice2.csproj|c:\\users\\adriana\\onedrive\\documents\\certif1\\2p\\2p-practice - copia\\practica#2_recuperada\\practice2\\practice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E400FD-A6CC-456E-A654-76FC6836B070}|Practice2\\Practice2.csproj|solutionrelative:practice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{31E400FD-A6CC-456E-A654-76FC6836B070}|Practice2\\Practice2.csproj|c:\\users\\adriana\\onedrive\\documents\\certif1\\2p\\2p-practice - copia\\practica#2_recuperada\\practice2\\practice2\\middlewareerrores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31E400FD-A6CC-456E-A654-76FC6836B070}|Practice2\\Practice2.csproj|solutionrelative:practice2\\middlewareerrores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E400FD-A6CC-456E-A654-76FC6836B070}|Practice2\\Practice2.csproj|c:\\users\\adriana\\onedrive\\documents\\certif1\\2p\\2p-practice - copia\\practica#2_recuperada\\practice2\\practice2\\appsettings.qa.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31E400FD-A6CC-456E-A654-76FC6836B070}|Practice2\\Practice2.csproj|solutionrelative:practice2\\appsettings.qa.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E400FD-A6CC-456E-A654-76FC6836B070}|Practice2\\Practice2.csproj|c:\\users\\adriana\\onedrive\\documents\\certif1\\2p\\2p-practice - copia\\practica#2_recuperada\\practice2\\practice2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31E400FD-A6CC-456E-A654-76FC6836B070}|Practice2\\Practice2.csproj|solutionrelative:practice2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E400FD-A6CC-456E-A654-76FC6836B070}|Practice2\\Practice2.csproj|c:\\users\\adriana\\onedrive\\documents\\certif1\\2p\\2p-practice - copia\\practica#2_recuperada\\practice2\\practice2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31E400FD-A6CC-456E-A654-76FC6836B070}|Practice2\\Practice2.csproj|solutionrelative:practice2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D005B57F-E353-45C6-A5A8-9ED91EA387B0}|PatientManager\\PatientManager.csproj|c:\\users\\adriana\\onedrive\\documents\\certif1\\2p\\2p-practice - copia\\practica#2_recuperada\\practice2\\patientmanager\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D005B57F-E353-45C6-A5A8-9ED91EA387B0}|PatientManager\\PatientManager.csproj|solutionrelative:patientmanager\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D005B57F-E353-45C6-A5A8-9ED91EA387B0}|PatientManager\\PatientManager.csproj|c:\\users\\adriana\\onedrive\\documents\\certif1\\2p\\2p-practice - copia\\practica#2_recuperada\\practice2\\patientmanager\\patientmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D005B57F-E353-45C6-A5A8-9ED91EA387B0}|PatientManager\\PatientManager.csproj|solutionrelative:patientmanager\\patientmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E400FD-A6CC-456E-A654-76FC6836B070}|Practice2\\Practice2.csproj|c:\\users\\adriana\\onedrive\\documents\\certif1\\2p\\2p-practice - copia\\practica#2_recuperada\\practice2\\practice2\\practice2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31E400FD-A6CC-456E-A654-76FC6836B070}|Practice2\\Practice2.csproj|solutionrelative:practice2\\practice2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +58,157 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Practice2.http",
+              "DocumentMoniker": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\Practice2.http",
+              "RelativeDocumentMoniker": "Practice2\\Practice2.http",
+              "ToolTip": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\Practice2.http",
+              "RelativeToolTip": "Practice2\\Practice2.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-12T05:44:02.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.UAT.json",
+              "DocumentMoniker": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\appsettings.UAT.json",
+              "RelativeDocumentMoniker": "Practice2\\appsettings.UAT.json",
+              "ToolTip": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\appsettings.UAT.json",
+              "RelativeToolTip": "Practice2\\appsettings.UAT.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T06:12:02.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patients_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\Controllers\\Patients_Controller.cs",
+              "RelativeDocumentMoniker": "Practice2\\Controllers\\Patients_Controller.cs",
+              "ToolTip": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\Controllers\\Patients_Controller.cs",
+              "RelativeToolTip": "Practice2\\Controllers\\Patients_Controller.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:05:27.162Z"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\Program.cs",
+              "RelativeDocumentMoniker": "Practice2\\Program.cs",
+              "ToolTip": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\Program.cs",
+              "RelativeToolTip": "Practice2\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T05:44:00.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Practice2\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\Properties\\launchSettings.json",
               "RelativeToolTip": "Practice2\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAuAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-06T22:05:31.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T22:05:31.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Patients_Controller.cs",
-              "DocumentMoniker": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\Controllers\\Patients_Controller.cs",
-              "RelativeDocumentMoniker": "Practice2\\Controllers\\Patients_Controller.cs",
-              "ToolTip": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\Controllers\\Patients_Controller.cs",
-              "RelativeToolTip": "Practice2\\Controllers\\Patients_Controller.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T22:05:27.162Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "appsettings.QA.json",
+              "DocumentMoniker": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\appsettings.QA.json",
+              "RelativeDocumentMoniker": "Practice2\\appsettings.QA.json",
+              "ToolTip": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\appsettings.QA.json",
+              "RelativeToolTip": "Practice2\\appsettings.QA.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T06:12:00.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Practice2\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\appsettings.Development.json",
+              "RelativeToolTip": "Practice2\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T06:11:57.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MiddlewareErrores.cs",
               "DocumentMoniker": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\MiddlewareErrores.cs",
               "RelativeDocumentMoniker": "Practice2\\MiddlewareErrores.cs",
               "ToolTip": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\MiddlewareErrores.cs",
               "RelativeToolTip": "Practice2\\MiddlewareErrores.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwCIAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T22:02:25.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T22:02:25.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\appsettings.json",
+              "RelativeDocumentMoniker": "Practice2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\appsettings.json",
+              "RelativeToolTip": "Practice2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T05:44:10.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\PatientManager\\Patient.cs",
+              "RelativeDocumentMoniker": "PatientManager\\Patient.cs",
+              "ToolTip": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\PatientManager\\Patient.cs",
+              "RelativeToolTip": "PatientManager\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T00:42:25.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientManager.csproj",
+              "DocumentMoniker": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\PatientManager\\PatientManager.csproj",
+              "RelativeDocumentMoniker": "PatientManager\\PatientManager.csproj",
+              "ToolTip": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\PatientManager\\PatientManager.csproj",
+              "RelativeToolTip": "PatientManager\\PatientManager.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-12T02:23:15.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Practice2.csproj",
+              "DocumentMoniker": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\Practice2.csproj",
+              "RelativeDocumentMoniker": "Practice2\\Practice2.csproj",
+              "ToolTip": "C:\\Users\\Adriana\\OneDrive\\Documents\\certif1\\2P\\2P-Practice - copia\\Practica#2_Recuperada\\Practice2\\Practice2\\Practice2.csproj",
+              "RelativeToolTip": "Practice2\\Practice2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-12T05:45:00.938Z"
             }
           ]
         }

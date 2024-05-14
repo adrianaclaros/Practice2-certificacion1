@@ -27,13 +27,18 @@ namespace _Practice2.Controllers
 
         // Método para crear un paciente (HTTP POST)
         [HttpPost]
-        public IActionResult Create(Patient patient)
+        public IActionResult CreatePatient([FromBody] Patient patient)
         {
             var bloodGroups = new string[] { "A+", "A-", "B+", "B-", "AB+", "AB-", "O+", "O-" };
-            patient.BloodType = bloodGroups[new Random().Next(bloodGroups.Length)];  // Assign a random blood group
-            _patients.Add(patient);
-            SavePatientsToFile(_patients);  // Guarda los cambios en el archivo
-            return CreatedAtAction(nameof(GetByCI), new { ci = patient.CI }, patient);
+            var random = new Random();
+            var bloodGroup = bloodGroups[random.Next(bloodGroups.Length)];
+
+            patient.BloodType = bloodGroup;
+
+            _patients.Add(patient); // Agregar el paciente a la lista
+            SavePatientsToFile(_patients); // Guardar los cambios en el archivo
+
+            return Ok(patient);
         }
 
         // Método para actualizar un paciente por su CI (HTTP PUT)
@@ -45,11 +50,26 @@ namespace _Practice2.Controllers
             {
                 return NotFound("Patient not found");
             }
-            patient.Name = updatedPatient.Name;
-            patient.LastName = updatedPatient.LastName;
+
+            // Actualizar el nombre si se proporciona en la solicitud
+            if (!string.IsNullOrEmpty(updatedPatient.Name))
+            {
+                patient.Name = updatedPatient.Name;
+            }
+
+            // Actualizar el apellido si se proporciona en la solicitud
+            if (!string.IsNullOrEmpty(updatedPatient.LastName))
+            {
+                patient.LastName = updatedPatient.LastName;
+            }
+
+
+
             SavePatientsToFile(_patients);  // Guarda los cambios en el archivo
             return Ok(patient);
         }
+
+
 
         // Método para eliminar un paciente por su CI (HTTP DELETE)
         [HttpDelete("{ci}")]
@@ -123,32 +143,6 @@ namespace _Practice2.Controllers
                     writer.WriteLine($"{patient.Id},{patient.Name},{patient.LastName},{patient.CI},{patient.BloodType}");
                 }
             }
-        }
-
-        // Método para obtener el documento JSON de Swagger
-        [HttpGet("swagger")]
-        public IActionResult GetSwaggerJson()
-        {
-            var environment = _configuration["AppSettings:Environment"];
-            var appName = _configuration[$"AppInfo:{environment}:Name"];
-            var appVersion = "v1";
-            var swaggerUrl = $"{Request.Scheme}://{Request.Host.Value}/swagger/v1/swagger.json";
-
-            var swaggerDoc = new OpenApiDocument
-            {
-                Info = new OpenApiInfo
-                {
-                    Title = appName,
-                    Version = appVersion,
-                    Description = "Patients Manager"
-                },
-                Servers = new List<OpenApiServer>
-                {
-                    new OpenApiServer { Url = swaggerUrl }
-                }
-            };
-
-            return Ok(swaggerDoc);
         }
     }
 }

@@ -1,0 +1,5 @@
+0,FRF,ggg,654123,O-
+2,dsdsds,ttt,147741,O+
+3,uuu,www,987123,A+
+8,ana,Siles,456365,B+
+7,mauricio,terceros,123456,A-
