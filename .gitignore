@@ -1,0 +1,39 @@
+# Ignorar archivos y carpetas generados por Visual Studio
+.vs/
+/bin/
+/obj/
+
+# Ignorar archivos y carpetas generados por compilación
+*.dll
+*.exe
+
+# Ignorar archivos de respaldo y temporales
+*~
+*.bak
+*.tmp
+
+# Ignorar archivos de configuración específicos del usuario
+*.user
+*.suo
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar archivos de caché
+*.cache
+
+# Ignorar archivos de paquetes NuGet
+packages/
+
+# Ignorar archivos y carpetas específicos del entorno de desarrollo
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ignorar archivos de compilación de Node.js
+node_modules/
+npm-debug.log
+
+# Ignorar archivos compilados de TypeScript
+*.js
+*.js.map
